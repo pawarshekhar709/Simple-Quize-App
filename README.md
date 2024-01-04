@@ -2,6 +2,9 @@
 
 This is a simple quiz application developed by Shekhar Pawar. The application allows users to answer multiple-choice questions and proceed to the next question.
 
+### Author
+- Shekhar Pawar
+
 ## Technologies Used
 
 - HTML
